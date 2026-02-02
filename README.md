@@ -1,7 +1,5 @@
 # E-Commerce-Sales-Analysis-using-SQL
 
-# 🛒 Ecommerce Sales SQL Analysis Project
-
 This repository contains an end-to-end **SQL-based data cleaning, transformation, and analysis project** completed during my internship. The project focuses on analyzing ecommerce sales data to extract meaningful business insights related to sales performance, profitability, customer behavior, and targets.
 
 ---
