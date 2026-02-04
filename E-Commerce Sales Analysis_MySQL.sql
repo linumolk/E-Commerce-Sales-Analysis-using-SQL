@@ -1,7 +1,7 @@
 -- 							  E-COMMERCE SALES ANALYSIS
 
-CREATE DATABASE Ecommerce_sales;
-USE Ecommerce_sales;
+CREATE DATABASE ecommerce_sales;
+USE ecommerce_sales;
 
 RENAME TABLE `list of orders` TO list_of_orders;
 RENAME TABLE `order details` TO order_details;
