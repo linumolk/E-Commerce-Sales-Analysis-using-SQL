@@ -69,6 +69,10 @@ Relationships were created to maintain data integrity:
 * **Primary Key**: `list_of_orders.Order_ID`
 * **Foreign Key**: `order_details.Order_ID → list_of_orders.Order_ID`
 * Unique constraint on `(Category, Month_of_Order_Date)` in `sales_target`
+---
+
+## 🖼 ER Diagram Preview
+![ER Diagram](E-Commerce-ER.png).
 
 ---
 
