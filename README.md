@@ -126,11 +126,11 @@ Relationships were created to maintain data integrity:
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights and Recommendations
 
-•	All types of clothing made a profit, with the top 3 best-selling sub-categories being sarees, handkerchiefs, and stoles. 
-•	Sellers can boost sales by offering complementary products to these items, as customers often buy clothing in pairs. 
-•	They should avoid selling electronic games, which resulted in losses, and focus more on printers and accessories, which perform better despite lower quantities.
+* All types of clothing made a profit, with the top 3 best-selling sub-categories being sarees, handkerchiefs, and stoles. 
+*	Sellers can boost sales by offering complementary products to these items, as customers often buy clothing in pairs. 
+*	They should avoid selling electronic games, which resulted in losses, and focus more on printers and accessories, which perform better despite lower quantities.
 
 
 
