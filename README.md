@@ -1,6 +1,6 @@
 # E-Commerce-Sales-Analysis-using-SQL
 
-This repository contains an end-to-end **SQL-based data cleaning, transformation, and analysis project** using MySQL Workbench. The project focuses on analyzing ecommerce sales data to extract meaningful business insights related to sales performance, profitability, customer behavior, and targets.
+This repository contains an end-to-end **SQL-based data cleaning, transformation, and analysis project** using **MySQL** Workbench. The project focuses on analyzing ecommerce sales data to extract meaningful business insights related to sales performance, profitability, customer behavior, and targets.
 
 ---
 
